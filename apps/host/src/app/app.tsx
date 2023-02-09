@@ -9,7 +9,7 @@ export function App() {
     <React.Suspense fallback={null}>
       <ul>
         <li>
-          <Link to="/">Homes</Link>
+          <Link to="/">Home</Link>
         </li>
 
         <li>
